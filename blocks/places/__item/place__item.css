@@ -1,6 +1,6 @@
 .place__item {
   display: grid;
-  grid-template-columns: min-content 484;
+  grid-template-columns: min-content 1fr;
   grid-template-rows: min-content min-content;
   gap: 48px 40px;
   padding-bottom: 80px;
