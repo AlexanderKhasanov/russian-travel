@@ -4,3 +4,25 @@
   flex-direction: column;
   max-width: 984px;
 }
+
+@media screen and (max-width: 1279px) {
+  .lead {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead {
+    max-width: 1023px;
+    padding: 0;
+    padding-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead {
+    max-width: 767px;
+    padding: 0;
+    padding-bottom: 64px;
+  }
+}
