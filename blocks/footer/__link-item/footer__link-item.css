@@ -7,3 +7,14 @@
 .footer__link-item:last-child {
   padding: 0;
 }
+
+@media screen and (max-width: 767px) {
+  .footer__link-item {
+    padding: 0;
+    padding-bottom: 32px;
+  }
+
+  .footer__link-item:last-child {
+    padding: 0;
+  }
+}
