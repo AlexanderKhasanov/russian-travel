@@ -1,6 +1,4 @@
 # Проект: Путешествие по России
-Alt-H1
-------
 
 ## Описание проекта
 [Данный проект](https://AlexanderKhasanov.github.io/russian-travel/index.html) представляет собой верстку одностроничного сайта "Путешествия по России". Верстка является адаптивной и подстраивается под различные размеры экранов. Работа выполнялась по [макету](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
