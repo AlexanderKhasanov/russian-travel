@@ -1,23 +1,24 @@
-.photo-grid__item {
+.photo__grid-item {
+  padding: 0;
   max-width: 284px;
   width: 100%;
   object-fit: cover;
 }
 
 @media screen and (max-width: 1279px) {
-  .photo-grid__item {
+  .photo__grid-item {
     max-width: calc((1279px - 2 * 14px) / 3);
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .photo-grid__item {
+  .photo__grid-item {
     max-width: calc((1023px - 2 * 16px) / 2);
   }
 }
 
 @media screen and (max-width: 767px) {
-  .photo-grid__item {
+  .photo__grid-item {
     max-width: 767px;
   }
 }
